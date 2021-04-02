@@ -1,3 +1,3 @@
 # aoki
 My project for labwork 
-This is my laba of
+# This is my laba of Calculator
